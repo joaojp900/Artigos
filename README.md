@@ -23,7 +23,7 @@ Este repositório contém um sistema de CRUD (Create, Read, Update, Delete) para
    ```bash
    cd Artigos
    ```
-3. Configure o banco de dados MySQL e importe o arquivo **database.sql**.
+3. Configure o banco de dados MySQL e importe o arquivo que esta na pasta **BD** onde encontrasse  o arquivo **artigos.sql**.
 
 4. Inicie o servidor local (Apache ou PHP embutido):
    ```bash
