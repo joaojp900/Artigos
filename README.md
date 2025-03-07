@@ -27,7 +27,7 @@ Este repositório contém um sistema de CRUD (Create, Read, Update, Delete) para
 
 4. Inicie o servidor local (Apache ou PHP embutido):
    ```bash
-   http://localhost/Artigos/home)
+   http://localhost/Artigos/home
    ```
 
 ## 🌟 Autor
